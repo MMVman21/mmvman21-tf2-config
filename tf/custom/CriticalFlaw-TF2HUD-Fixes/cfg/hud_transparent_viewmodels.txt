@@ -1,0 +1,7 @@
+"x"
+{
+	"TransparentViewmodel"
+	{
+		"visible"	"0"
+	}
+}
