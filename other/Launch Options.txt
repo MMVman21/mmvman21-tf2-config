@@ -1,0 +1,2 @@
+-windowed -noborder -console -novid -nojoy -nosteamcontroller -noquicktime -nohltv -particles 1 -precachefontchars -nostartupsound
+
