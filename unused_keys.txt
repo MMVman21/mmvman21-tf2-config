@@ -1,0 +1,25 @@
+unused
+bind b
+bind CAPSLOCK
+bind LWIN
+bind RWIN
+bind /
+bind '
+bind [
+bind ]
+bind -
+bind =
+bind ENTER
+bind RSHIFT
+bind SCROLLLOCK
+bind PAUSE
+bind HOME
+bind INS
+bind KP_DEL
+bind UPARROW
+bind DOWNARROW
+bind RIGHTARROW
+bind LEFTARROW
+bind f4
+bind MWHEELUP
+bind MWHEELDOWN
