@@ -8,6 +8,6 @@ https://www.reddit.com/r/tf2scripthelp/wiki/commonscripts/#wiki_stfu
 https://cfg.tf
 https://www.reddit.com/r/Tf2Scripts/comments/1fhid4i/is_this_formatted_correctly/
 https://comfig.app/app/
-
+https://steamcommunity.com/sharedfiles/filedetails/?id=167785751
 
 

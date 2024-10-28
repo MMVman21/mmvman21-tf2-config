@@ -1,5 +1,4 @@
 unused
-bind b
 bind CAPSLOCK
 bind LWIN
 bind RWIN
@@ -20,6 +19,3 @@ bind UPARROW
 bind DOWNARROW
 bind RIGHTARROW
 bind LEFTARROW
-bind f4
-bind MWHEELUP
-bind MWHEELDOWN
